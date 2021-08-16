@@ -208,7 +208,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capybara (>= 3.26)
-  figaro
+  figaro (~> 1.2)
   flickr (~> 2.0, >= 2.0.2)
   jbuilder (~> 2.7)
   listen (~> 3.3)
